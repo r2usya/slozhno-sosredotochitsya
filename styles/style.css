@@ -15,7 +15,7 @@
 }
 .header{
   padding: 20px;
-  min-height: 768px;
+  max-height: 768px;
   position: relative;
   margin-bottom: 60px;
 }
