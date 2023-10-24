@@ -121,7 +121,7 @@ margin-right: 10px;
 }
 .content__section__1{
   display: grid;
-  grid-template-columns: 1fr minmax(351px, 2fr);
+  grid-template-columns: 314px minmax(314px, 2fr);
   gap: 20px;
 }
 .h3{
@@ -275,3 +275,10 @@ margin-right: 10px;
     padding: 10px;
   } 
 } 
+/* @media (min-width: 500px) {
+  .content__section__1{
+    display: grid;
+    grid-template-columns: 314px minmax(314px, 2fr);
+    gap: 20px;
+  }
+  } */
