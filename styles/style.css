@@ -12,12 +12,12 @@
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
-  background-attachment: fixed;
 }
 .header{
   padding: 20px;
   max-height: 768px;
   position: relative;
+  margin-bottom: 40px;
 }
 
 .decorated-zone__top{
@@ -55,10 +55,7 @@ margin-right: 10px;
   display: flex;
   gap: 10px;
 }
-.header__theme-menu-button{
-  background: none;
-  border:none;
-}
+
 .h1{
   color: var(--title-color);
   text-shadow: 4px 4px 0 var(--accent-color);
@@ -105,6 +102,8 @@ margin-right: 10px;
 }
 .header__theme-menu-button{
   padding: 0 13px;
+  background: none;
+  border:none;
 }
 .header__theme-menu-button_active{
   outline: 1px solid var(--low-title-color);
@@ -182,9 +181,6 @@ margin-right: 10px;
   grid-row-start: 2;  
   grid-row-end: span 2  ;
   max-height: 768px; 
-}
-.picture__4{
-
 }
 .picture__5{
   grid-column-start: 2;  
