@@ -281,7 +281,7 @@ margin-right: 10px;
     max-width: 315px;
   }
   }
-  /* @media (max-width: 900px) {
+ @media (max-width: 900px) {
     .h1{
       padding-top: 24%;
       padding-bottom: 162px;
@@ -289,5 +289,5 @@ margin-right: 10px;
     .header{
       max-height: 1024px;
     }
-    } */
+    } 
   
