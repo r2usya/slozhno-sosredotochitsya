@@ -74,8 +74,8 @@ margin-right: 10px;
   top: 20px;
   width: 25.038px;
   height: 24.999px;
-  border-top: 1px solid var(--accent-color) ;
-  border-right: 1px solid var(--accent-color) ;
+  border-top: 1px solid var(--rec-color) ;
+  border-right: 1px solid var(--rec-color) ;
 }
 .decorated-zone::after{
   content:'';
@@ -84,8 +84,8 @@ margin-right: 10px;
   bottom: 20px;
   width: 25.038px;
   height: 24.999px;
-  border-bottom: 1px solid var(--accent-color) ;
-  border-left: 1px solid var(--accent-color) ;
+  border-bottom: 1px solid var(--rec-color) ;
+  border-left: 1px solid var(--rec-color) ;
 }
 .title-decor{
   background-color:var(--accent-color);
@@ -205,8 +205,8 @@ margin-right: 10px;
   top: 20px;
   width: 25.038px;
   height: 24.999px;
-  border-top: 1px solid var(--accent-color) ;
-  border-right: 1px solid var(--accent-color) ;
+  border-top: 1px solid var(--rec-color) ;
+  border-right: 1px solid var(--rec-color) ;
 }
 .decorated-zone-bottom::after{
   content:'';
@@ -215,8 +215,8 @@ margin-right: 10px;
   bottom: 20px;
   width: 25.038px;
   height: 24.999px;
-  border-bottom: 1px solid var(--accent-color) ;
-  border-left: 1px solid var(--accent-color) ;
+  border-bottom: 1px solid var(--rec-color) ;
+  border-left: 1px solid var(--rec-color) ;
 }
 .footer{
   margin-top: 60px;
@@ -281,3 +281,9 @@ margin-right: 10px;
     max-width: 315px;
   }
   }
+  @media (max-width: 900px) {
+    .h1{
+      padding-top: 24%;
+    }
+    }
+  
