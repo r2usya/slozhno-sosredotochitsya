@@ -15,7 +15,7 @@
 }
 .header{
   padding: 20px;
-  max-height: 768px;
+  min-height: 768px;
   position: relative;
   margin-bottom: 60px;
 }
@@ -284,6 +284,10 @@ margin-right: 10px;
   @media (max-width: 900px) {
     .h1{
       padding-top: 24%;
+      padding-bottom: 162px;
+    }
+    .header{
+      max-height: 1024px;
     }
     }
   
