@@ -219,6 +219,7 @@ margin-right: 10px;
   border-left: 1px solid var(--accent-color) ;
 }
 .footer{
+  margin-top: 60px;
   position: relative;
 }
 .link{
