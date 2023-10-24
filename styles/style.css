@@ -275,13 +275,8 @@ margin-right: 10px;
     padding: 10px;
   } 
 } 
-/* @media (min-width: 500px) {
-  .content__section__1{
-    display: grid;
-    grid-template-columns: 314px minmax(314px, 2fr);
-    gap: 20px;
+@media (min-width: 500px) {
+  .h2{
+    max-width: 315px;
   }
-  } */
-  .text{
-    
   }
