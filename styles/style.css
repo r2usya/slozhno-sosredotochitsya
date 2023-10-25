@@ -229,7 +229,6 @@ margin-right: 10px;
 
 @media (max-width: 500px) {
   .content__section,
-  .content__section__block__2,
   .container,
   .header__theme-menu-list{
     display: flex;
@@ -239,7 +238,6 @@ margin-right: 10px;
 @media (max-width: 900px) {
   .header__paragraph{
     margin-bottom: 163px;
-    
   }
   .header__theme-menu-list{
     display: flex;
@@ -249,6 +247,9 @@ margin-right: 10px;
   }
   .header__theme-menu {
     justify-content: end;
+  }
+  .content__section__block__2{
+    display: block;
   }
 }
 @media (max-width: 500px) {
