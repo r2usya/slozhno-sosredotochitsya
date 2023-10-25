@@ -272,6 +272,9 @@ margin-right: 10px;
     max-width: 479px;
     max-height: 318px;
   }
+  .h5{
+    aspect-ratio: 3/4;
+  }
 }
 @media (max-width: 500px) {
   .header__theme-menu {
