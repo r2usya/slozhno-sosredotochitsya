@@ -249,7 +249,8 @@ margin-right: 10px;
     justify-content: end;
   }
   .content__section__block__2{
-    display: block;
+    display: flex;
+    flex-direction: column;
   }
 }
 @media (max-width: 500px) {
