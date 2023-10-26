@@ -353,4 +353,21 @@ margin-right: 10px;
     .low-margin-bottom{
       margin-bottom: 10px;
     }
+    .picture__1{
+      max-width: 354.999px;
+      max-height: 142px;
+    }
+    .picture__2{
+      max-width: 355px;
+      max-height: 355px;
+    }.picture__3{
+      max-width: 355px;
+      max-height: 237px;
+    }.picture__4{
+      max-width: 355px;
+      max-height: 355px;
+    }.picture__5{
+      max-width: 355px;
+      max-height: 237px;
+    }
   }  
