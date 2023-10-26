@@ -326,4 +326,20 @@ margin-right: 10px;
       display: flex;
       flex-direction: column;
     }
+    .decorated-zone::before{
+      right: 10px;
+      top: 10px;
+    }
+    .decorated-zone::after{
+      left: 10px;
+      bottom: 10px;
+    }
+    .decorated-zone-bottom::before{
+      right: 10px;
+      top: 10px;
+    }
+    .decorated-zone-bottom::after{
+      left: 10px;
+      bottom: 10px;
+    }
   }  
