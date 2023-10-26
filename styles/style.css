@@ -350,4 +350,7 @@ margin-right: 10px;
     .content__section{
       margin-bottom: 50px;
     }
+    .low-margin-bottom{
+      margin-bottom: 10px;
+    }
   }  
