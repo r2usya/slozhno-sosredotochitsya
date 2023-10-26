@@ -373,4 +373,8 @@ margin-right: 10px;
     .container{
       gap:10px;
     }
+    .h5{
+      max-width: 375px;
+      max-height: 667px;
+    }
   }  
