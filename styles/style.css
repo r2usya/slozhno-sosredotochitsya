@@ -344,4 +344,7 @@ margin-right: 10px;
       left: 10px;
       bottom: 10px;
     }
+    .h2{
+      max-width: 355px;
+    }
   }  
