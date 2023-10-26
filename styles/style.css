@@ -347,4 +347,7 @@ margin-right: 10px;
     .h2{
       max-width: 355px;
     }
+    .content__section{
+      margin-bottom: 50px;
+    }
   }  
