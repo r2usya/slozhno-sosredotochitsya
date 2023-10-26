@@ -15,7 +15,6 @@
 }
 .header {
   padding: 20px;
-  min-height: 768px;
   position: relative;
   margin-bottom: 60px;
 }
@@ -55,8 +54,8 @@
   text-shadow: 4px 4px 0 var(--shadow-color);
   font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   margin-left: -15px;
-  padding-top: 27.46%;
-  padding-bottom: 12%;
+  padding-top: 27.9%;
+  padding-bottom: 11.59%;
   line-height: 82.5%;
 }
 
