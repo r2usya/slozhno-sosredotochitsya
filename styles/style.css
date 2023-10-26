@@ -313,7 +313,7 @@ margin-right: 10px;
   } 
 } 
 
-@media (min-width: 500px) {
+@media (min-width: 900px) {
   .h2{
     max-width: 315px;
   }
