@@ -5,7 +5,10 @@
   --main-font:'IBM Plex Mono';
   --background-image: url(.../images/cover-image-dark.png);
   --title-color:#DB00FF;
+  --low-title-hover-color:rgba(255, 0, 112, 0.40);
   --low-title-color:#FF0070;
   --rec-color:#FF0070;
+  --shadow-color:#ff0070;
+  --low-shadow-color:#FF8DCB;
 }
  
