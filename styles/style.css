@@ -375,6 +375,6 @@ margin-right: 10px;
     }
     .h5{
       max-width: 375px;
-      max-height: 667px;
+      min-height: 667px;
     }
   }  
