@@ -370,4 +370,7 @@ margin-right: 10px;
       max-width: 355px;
       max-height: 237px;
     }
+    .container{
+      gap:10px;
+    }
   }  
