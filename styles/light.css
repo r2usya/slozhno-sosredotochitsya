@@ -46,7 +46,7 @@
   .theme_light .header__rec {
       display: none;
   }
-  .theme_auto .theme_light .header__rec{
+  .theme_auto .theme_light .header__rec {
     display: none;
   }
 }
