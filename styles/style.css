@@ -180,7 +180,7 @@
   align-items: center;
   justify-content: center;
   color: var(--title-color);
-  text-shadow: 2px 2px 0px var(--accent-color);
+  text-shadow: 2px 2px 0px var(--shadow-color);
   font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   /* aspect-ratio: 4/3; */
   height: 100%;
@@ -218,7 +218,7 @@
   text-decoration: 0;
 }
 .link:hover {
-  border-bottom: 1px solid var(--low-title-color);
+  border-bottom: 1px solid var(--text-color);
 }
 .link:focus {
   outline: none;
@@ -289,7 +289,7 @@
 @media (max-width: 500px) {
   .content__section,
   .content__section__1,
-  .container{
+  .container {
       display: flex;
       flex-direction: column;
   }

@@ -19,6 +19,7 @@
   --low-title-color:#ff0070;
   --shadow-color:#ff0070;
   --rec-color: #FF0070;
+  --title-decor-color:#000028;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -29,8 +30,13 @@
     --main-font:'IBM Plex Mono';
     --background-image: url(../images/cover-image-dark.png);
     --title-color:#DB00FF;
-    --low-title-color:rgba(255, 0, 112, 0.40);
+    --low-title-hover-color:rgba(255, 0, 112, 0.40);
+    --low-title-color:#ff0070;
     --shadow-color:#ff0070;
     --rec-color: #FF0070;
+    --title-decor-color:#000028;
+  }
+  .header__rec {
+      display: unset;
   }
 }
