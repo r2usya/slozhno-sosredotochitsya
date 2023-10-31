@@ -27,7 +27,6 @@
     display: none;
   }
 
-
 @media (prefers-color-scheme: light) {
   :root {
       --bg-color: #fff1f7;

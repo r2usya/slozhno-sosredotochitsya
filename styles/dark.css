@@ -36,7 +36,4 @@
     --rec-color: #FF0070;
     --title-decor-color:#000028;
   }
-  .header__rec {
-      display: unset;
-  }
 }
